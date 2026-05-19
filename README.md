@@ -60,7 +60,10 @@ pz1-microservices/
 
 <img width="405" height="47" alt="Снимок экрана 2026-05-20 в 01 22 37" src="https://github.com/user-attachments/assets/027ca40f-b85f-4f23-ae1d-a12bec927dad" />
 
+
+
 <img width="693" height="73" alt="Снимок экрана 2026-05-20 в 01 23 29" src="https://github.com/user-attachments/assets/43e864b3-8651-4a97-8593-f08d6fe8b67f" />
+
 
 
 ## Ответы на контрольные вопросы
